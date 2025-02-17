@@ -12,7 +12,7 @@ from datetime import datetime
 @plugins.register(
     name="DataRetrieval",
     desc="数据查询（支持票房和股票）",
-    version="2.1",
+    version="0.1",
     author="sllt",
     desire_priority=500
 )
