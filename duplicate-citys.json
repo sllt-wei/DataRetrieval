@@ -1,0 +1,7 @@
+{
+  "MAX_DISPLAY_COUNT": 10,
+  "enable_ai": true,
+  "zhipu_api_key": "",
+  "max_history_days": 100 ,
+  "us_stock_api_token" : ""
+} 
